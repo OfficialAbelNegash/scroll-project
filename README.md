@@ -17,10 +17,10 @@ Other functionalities include: Horizontal image scroll, Dynamic date at footer(c
 ![](./togglexfooter.png)
 
 #### Site link:
-https://zeus-kronos.github.io/scroll-project/
+https://OfficialAbelNegash.github.io/scroll-project/
 
 ## Developed with
 | Visual Studio Code | | HTML | | Taiilwind CSS (A CSS Framework) | | Javascript |
 
 ### Author
-Gabriel Dan
+Abel
